@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"オープニング","order":1,"parentId":0,"scrollX":811,"scrollY":457.5},
+{"id":2,"expanded":false,"name":"01_会議室","order":3,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":3,"expanded":true,"name":"プロローグ","order":2,"parentId":0,"scrollX":802,"scrollY":448.5,"quick":false},
+{"id":4,"expanded":false,"name":"02_２階廊下","order":4,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":5,"expanded":false,"name":"03_２階階段","order":5,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":6,"expanded":true,"name":"04_１階階段","order":6,"parentId":3,"scrollX":0,"scrollY":0,"quick":false},
+{"id":7,"expanded":true,"name":"05_１階廊下","order":7,"parentId":3,"scrollX":802,"scrollY":448.5,"quick":false},
+{"id":8,"expanded":false,"name":"06_地下通路","order":8,"parentId":3,"scrollX":810,"scrollY":991.5,"quick":false},
+{"id":9,"expanded":false,"name":"07_地下倉庫","order":9,"parentId":3,"scrollX":802,"scrollY":448.5,"quick":false},
+{"id":10,"expanded":true,"name":"第１部","order":10,"parentId":0,"scrollX":0,"scrollY":0,"quick":false},
+{"id":11,"expanded":false,"name":"01_地下倉庫【EV】","order":11,"parentId":10,"scrollX":802,"scrollY":448.5,"quick":false}
+]
